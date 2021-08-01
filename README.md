@@ -1,4 +1,4 @@
-## Olá! eu sou Gessé Carneiro
+## Olá! Eu sou Gessé Carneiro
 
 <div>
   <a href="https://github.com/gessecarneiro">
