@@ -1,7 +1,4 @@
-
-
-- 🔭 I’m currently working on Linux and Google Cloud Platform
-- 📚 I’m currently learning C and Golang
+## Olá! eu sou Gessé Carneiro
 
 <div>
   <a href="https://github.com/gessecarneiro">
